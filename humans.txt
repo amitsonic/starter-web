@@ -4,6 +4,8 @@
 # TEAM
 
     <name> Amit Desai <twitter>
+	desai.amit31@gmail.com
+	VMware Admin 
 
 # THANKS
 
