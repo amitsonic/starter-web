@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
+git is very important topic to start this course
 
 ## Purpose
 
