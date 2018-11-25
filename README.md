@@ -19,3 +19,5 @@ Work hard part harder
 
 ##GIT Comparison
 This is git comparison lecture
+
+Adding new lectures of stash
