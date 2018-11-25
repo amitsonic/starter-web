@@ -5,7 +5,7 @@
 
     <name> Amit Desai <twitter>
 	desai.amit31@gmail.com
-	VMware Admin 
+	VMware Admin L2
 
 # THANKS
 
@@ -14,5 +14,7 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Angular
+
     jQuery, Modernizr,
      MAchine lerning, AWS, Google Cloud
+
