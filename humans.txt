@@ -5,7 +5,7 @@
 
     <name> Amit Desai <twitter>
 	desai.amit31@gmail.com
-	VMware Admin 
+	VMware Admin L2
 
 # THANKS
 
@@ -15,3 +15,4 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, Ajax
+	Docker, Java Programming
