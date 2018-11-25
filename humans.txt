@@ -1,6 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+Adding Important notes on git stash
 # TEAM
 
     <name> Amit Desai <twitter>
