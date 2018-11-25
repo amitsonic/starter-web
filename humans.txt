@@ -6,6 +6,7 @@
     <name> Amit Desai <twitter>
 	desai.amit31@gmail.com
 	VMware Admin L2
+	Giving my best to understand this course
 
 # THANKS
 
