@@ -1,0 +1,240 @@
+[33mcommit 021f2d8a82c38cf76f8348aa904ebedd7f3484e6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Amit Desai <desai.amit31@gmail.com>
+Date:   Tue Jan 22 21:00:42 2019 +0530
+
+    added file in gitignore file for exception
+
+[33mcommit 9511e10039e2fbaa6a89217c635729f3fa59da0e[m
+Author: Amit Desai <desai.amit31@gmail.com>
+Date:   Tue Jan 22 20:56:18 2019 +0530
+
+    practice
+
+[33mcommit 6a9ca9cb05e7ee18e053ce31c86dede5afa93f6b[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: desai.amit <desai.amit31@gmail.com>
+Date:   Tue Jan 22 00:53:04 2019 +0530
+
+    Adding files recurssively
+
+[33mcommit e36d1e2f5597147e8d877bb9a85608463b3cf2c5[m
+Author: desai.amit <desai.amit31@gmail.com>
+Date:   Tue Jan 22 00:23:49 2019 +0530
+
+    Deletion recursively
+
+[33mcommit 80ed38d2887d5ffe9a9a15289951a5e28672867a[m
+Merge: a2e7174 89fdb9b
+Author: desai.amit <desai.amit31@gmail.com>
+Date:   Mon Jan 21 23:44:18 2019 +0530
+
+    new commit
+
+[33mcommit a2e71744cdb5cf8fe06a1439b167d1e48036179a[m
+Author: desai.amit <desai.amit31@gmail.com>
+Date:   Mon Jan 21 23:37:45 2019 +0530
+
+    This is my Starter-web commit
+
+[33mcommit 89fdb9b21119bb54deb572bac1ec229374aab6bf[m
+Author: amitsonic <45261498+amitsonic@users.noreply.github.com>
+Date:   Mon Jan 21 23:30:56 2019 +0530
+
+    Delete testfile.txt
+
+[33mcommit 78f0a5e93bdb79b70eec459bd494afd5ce8273e2[m
+Author: Amit Desai <desai.amit31@gmail.com>
+Date:   Sun Nov 25 19:36:20 2018 +0530
+
+    Example git pop:
+
+[33mcommit da881d804f75403478a8e58acc19d521972dda04[m
+Author: Amit Desai <desai.amit31@gmail.com>
+Date:   Sun Nov 25 19:35:51 2018 +0530
+
+    Example git pop
+
+[33mcommit b42838db01f1b3ebfcd87de86f7007c46c38c7ec[m
+Author: Amit Desai <desai.amit31@gmail.com>
+Date:   Sun Nov 25 19:05:08 2018 +0530
+
+    stash changes commited
+
+[33mcommit c8ae73593348f2fe67f71ccf381458db6997c7a1[m
+Author: Amit Desai <desai.amit31@gmail.com>
+Date:   Sun Nov 25 19:02:01 2018 +0530
+
+    Added stash message in readme
+
+[33mcommit 0096b1b672c77a5d8a9f58034e70077d90ad89ae[m
+Merge: b2d93c3 fda6e68
+Author: Amit Desai <desai.amit31@gmail.com>
+Date:   Sun Nov 25 17:51:47 2018 +0530
+
+    Merge branch 'mybranch'
+
+[33mcommit b2d93c3120fd035ad20b18a8f9fa821cd379358b[m
+Author: Amit Desai <desai.amit31@gmail.com>
+Date:   Sun Nov 25 17:38:31 2018 +0530
+
+    adding new changes to Humans.txt
+
+[33mcommit a37f48d8d3700b9b7ee52c64e223e90ebf522540[m
+Author: amitsonic <45261498+amitsonic@users.noreply.github.com>
+Date:   Sun Nov 25 17:40:06 2018 +0530
+
+    remote: Adding file README text
+
+[33mcommit fda6e68ad8d9bcb4075f2b2ca26d8bf6b109f5bd[m
+Author: Amit Desai <desai.amit31@gmail.com>
+Date:   Sun Nov 25 11:57:18 2018 +0530
+
+    Modified humans text
+
+[33mcommit a4d7d8ccd41383d33053f0c0edff7e23c5e9d6be[m
+Author: Amit Desai <desai.amit31@gmail.com>
+Date:   Sun Nov 25 12:00:00 2018 +0530
+
+    Added message in README
+
+[33mcommit 144b2f56bd9e8eb73e66725b2600cdf09c66f4d7[m
+Merge: 4ff4aba ff24e34
+Author: Amit Desai <desai.amit31@gmail.com>
+Date:   Sun Nov 25 11:06:40 2018 +0530
+
+    Resolved merge conflicts
+
+[33mcommit 4ff4abafb22b3402dc0fe9184d7e6ae7376f38e8[m
+Author: Amit Desai <desai.amit31@gmail.com>
+Date:   Sun Nov 25 10:57:14 2018 +0530
+
+    Adding conflicts by changing same file
+
+[33mcommit ff24e349c0f8d15b86b823d29ba974b4d2826da0[m
+Author: Amit Desai <desai.amit31@gmail.com>
+Date:   Sun Nov 25 10:53:36 2018 +0530
+
+    Changing human txt
+
+[33mcommit 4ec63924c8cf117a0da94c3d2b742fec4af1aaf3[m
+Merge: 7f09c9c 13a07dd
+Author: Amit Desai <desai.amit31@gmail.com>
+Date:   Sat Nov 24 19:45:49 2018 +0530
+
+    Merging Develop with Master
+
+[33mcommit 13a07ddd8e2467abd33e3fb137a3036fadebc4cc[m
+Author: Amit Desai <desai.amit31@gmail.com>
+Date:   Sat Nov 24 19:43:18 2018 +0530
+
+    change in simple HTML file
+
+[33mcommit 7f09c9c9a46bee26fbd36c348f0d95c6b061a9eb[m
+Author: Amit Desai <desai.amit31@gmail.com>
+Date:   Sat Nov 24 19:35:05 2018 +0530
+
+    Change in Readme
+
+[33mcommit 148ec1c9e6d96bc5f12dcb9661dd90a962661cd2[m
+Author: Amit Desai <desai.amit31@gmail.com>
+Date:   Sat Nov 24 19:31:04 2018 +0530
+
+    Change in humans.txt file
+
+[33mcommit 5dc5b60974ad1f5de072434bd84f835cc2d3cb19[m
+Author: Amit Desai <desai.amit31@gmail.com>
+Date:   Sat Nov 24 19:07:25 2018 +0530
+
+    change in develop branch
+
+[33mcommit a74a207191d69d23dd783a30c8f5009b0635c7f9[m
+Author: Amit Desai <desai.amit31@gmail.com>
+Date:   Sat Nov 24 17:01:37 2018 +0530
+
+    Adding text in readme
+
+[33mcommit adc4404eb84b14023f4580f7365b4a076285a97f[m
+Author: Amit Desai <desai.amit31@gmail.com>
+Date:   Sat Nov 24 16:29:39 2018 +0530
+
+    adding text
+
+[33mcommit e4cb5211551aed2a3830000a2e33da21eed31557[m
+Author: Amit Desai <desai.amit31@gmail.com>
+Date:   Sat Nov 24 16:27:06 2018 +0530
+
+    Adding Readme
+
+[33mcommit f604641b7811560b90ae58256ee6895df3db5273[m
+Author: Amit Desai <desai.amit31@gmail.com>
+Date:   Sat Nov 24 16:13:11 2018 +0530
+
+    Added log in git ignore
+
+[33mcommit 898dd58bc426a10013b44ae37bc0bfb3bf3612db[m
+Author: Amit Desai <desai.amit31@gmail.com>
+Date:   Sat Nov 24 16:04:34 2018 +0530
+
+    adding git ignore to exclude unwanted files
+
+[33mcommit e49a61aca5f5041070dc4e84e160f42b8bf147be[m
+Author: Amit Desai <desai.amit31@gmail.com>
+Date:   Sat Nov 24 13:51:34 2018 +0530
+
+    moving the files
+
+[33mcommit cac78920cb30cb3f33122ad069774a47c24e9329[m
+Author: Amit Desai <desai.amit31@gmail.com>
+Date:   Sat Nov 24 13:46:19 2018 +0530
+
+    renaming of files
+
+[33mcommit 9782572e99e44f932ff5d26913729ded3f77580a[m
+Author: Amit Desai <desai.amit31@gmail.com>
+Date:   Sat Nov 24 13:16:28 2018 +0530
+
+    adding files recuresively
+
+[33mcommit 6347785fc36ca97b20fc4d256fb073e41c0eb24e[m
+Author: Amit Desai <desai.amit31@gmail.com>
+Date:   Sat Nov 24 13:03:08 2018 +0530
+
+    deleting the file
+
+[33mcommit 48cc02f667db9a63cc7b32ad0db4eb2707b29b23[m
+Author: Amit Desai <desai.amit31@gmail.com>
+Date:   Sat Nov 24 12:41:40 2018 +0530
+
+    rename
+
+[33mcommit aeb609d715dc48c077d118be6329f358e8d0bd3d[m
+Author: Amit Desai <desai.amit31@gmail.com>
+Date:   Sat Nov 24 11:59:38 2018 +0530
+
+    commiting my testfile
+
+[33mcommit 4beb7f097b54ab7cf08daf17972c3ab14432ae24[m
+Merge: 5c05047 e73f914
+Author: Jason Taylor <jason@jasongtaylor.com>
+Date:   Wed Sep 2 02:39:19 2015 -0400
+
+    Merge pull request #6 from jasongtaylor/feature-readme
+    
+    Adding README file
+
+[33mcommit e73f9147e78331b2ea746dc43de5a44953766a76[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:25:18 2015 -0400
+
+    Adding Purpose section to README
+
+[33mcommit 34f563b40c4c1519026d2e881c75e97728c45502[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:06:05 2015 -0400
+
+    Adding README file
+
+[33mcommit 5c05047e53ecd0913a6f10000014d38829aaecdc[m
+Author: Jason Taylor <jason@screencasts.pro>
+Date:   Thu Sep 11 22:14:19 2014 -0400
+
+    Copying files from initializr project zip file and then creating simple.html as basis for super simple pages
