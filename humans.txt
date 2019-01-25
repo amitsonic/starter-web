@@ -15,8 +15,8 @@ Adding Important notes on git stash
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3, Angular
+    HTML5, CSS3, Angular, AWS
 
     jQuery, Modernizr,
-     MAchine lerning, AWS, Google Cloud
+     MAchine lerning, AWS, Google Cloud,Digital Ocean
 
