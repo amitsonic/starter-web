@@ -20,4 +20,5 @@ Adding Important notes on git stash
 
     jQuery, Modernizr,
      MAchine lerning, AWS, Google Cloud,Digital Ocean
+	 AWS Solution Architect 
 
