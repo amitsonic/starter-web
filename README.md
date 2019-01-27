@@ -1,23 +1,16 @@
 # Starter Web Repo
-
-This repository is for showing how Git and GitHub work
-git is very important topic to start this course
+will complete devops first simultaneously complete basic linux
+After devops will do AWS Revision
+Once above is done will start my python training
 
 ## Purpose
-
-Sample website with plenty of files for demos
-
-## GIT & GitHub Training
-This is one of the best course today all the best
-Adding git rebase lecture & GIT advance part.
-
-##Contribution
-Fork the Repo and raise pull request for review
-
-## Additional Line
 Work hard part harder
 
-##GIT Comparison
-This is git comparison lecture
+## GIT & GitHub Training
+God please give me your blessing to complete devops
 
-Adding new lectures of stash
+##Best training course at the moment.
+Swami mala devops course ani python ani linux basic ani aws complete karayla ashirwaad dya
+
+#GIT comparison
+Compare working directory with git local Repo
