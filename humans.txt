@@ -8,6 +8,7 @@ Adding Important notes on git stash
 	desai.amit31@gmail.com
 	VMware Admin L2
 	Giving my best to understand this course
+	Adding stash line for testing
 
 # THANKS
 
